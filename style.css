@@ -2,7 +2,7 @@
 body {
     margin: 0;
     overflow: hidden; /* 스크롤바가 생기지 않도록 합니다. */
-    background-color: #000; /* 검은색 배경 */
+    background-color: #fff; /* 하얀색 배경 */
 }
 
 /* 캔버스가 화면 전체를 덮도록 만듭니다. */
